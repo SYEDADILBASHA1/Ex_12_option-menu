@@ -23,7 +23,7 @@ Step 7: Save and run the application.
 /*
 Program to print the text “optionmenu”.
 Developed by:SYED ADIL BASHA
-Registeration Number :212221043008s
+Registeration Number :212221043008
 */
 ## activity_main.xml
 ```
